@@ -1,0 +1,2 @@
+# vanillax
+Plugins vanilla
